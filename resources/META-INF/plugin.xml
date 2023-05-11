@@ -8,7 +8,6 @@
       A plugin for generating enums.<br>
       In IDEA, click on the menu "Tools" ->"GenerateEnum" ->"Generate Enum", and then enter the string to be converted in the dialog box to generate Java enumeration classes <br>
       Note: Please generate pieces based on a similar string '0: default, 1: waiting, 2: pedding, 3: success, 4: failure, 5: hold order' <br>
-      <em>most HTML tags may be used</em>
     ]]></description>
 
   <change-notes>
