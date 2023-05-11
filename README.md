@@ -1,5 +1,4 @@
-# generateEnumeration
-A idea plugin for generating enums.
+# A idea plugin for generating enums.
 
  In IDEA, click on the menu "Tools" ->"GenerateEnum" ->"Generate Enum", and then enter the string to be converted in the dialog box to generate Java enumeration classes 
       
