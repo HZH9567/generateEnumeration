@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>com.hzh.plugin</id>
   <name>Generate Enumeration</name>
   <version>1.0</version>
   <vendor email="1763131869@qq.com" url="">huangzhenhong</vendor>
@@ -11,10 +11,7 @@
       <em>most HTML tags may be used</em>
     ]]></description>
 
-  <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
-    ]]>
+  <change-notes>
   </change-notes>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
